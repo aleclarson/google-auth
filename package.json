@@ -12,7 +12,7 @@
     "jws": "^3.1.4",
     "lodash.isstring": "^4.0.1",
     "lodash.merge": "^4.6.0",
-    "request": "^2.81.0"
+    "request": "aleclarson/request#1.0.0"
   },
   "devDependencies": {
     "@types/lodash.isstring": "^4.0.2",
@@ -20,7 +20,6 @@
     "@types/mocha": "^2.2.41",
     "@types/nock": "^8.2.1",
     "@types/node": "^7.0.13",
-    "@types/request": "^0.0.42",
     "clang-format": "^1.0.50",
     "coveralls": "^2.13.0",
     "del": "^2.2.2",
